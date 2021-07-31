@@ -138,8 +138,8 @@
 <!-- START: GITHUB PROFILE STATS -->
 <h2 align="center">GitHub Profile Stats</h2>
 <p align="center">
-  <img alt="gdagtekin's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=gdagtekin&hide=contribs,prs,issues&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=78FE96&icon_color=78FE96" width="450px"/>
-  <img alt="gdagtekin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdagtekin&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=78FE96&icon_color=78FE96" width="412px"/>
+  <img alt="gdagtekin's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=gdagtekin&hide=contribs,prs,issues&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=78FE96&icon_color=78FE96" width="412px"/>
+  <img alt="gdagtekin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdagtekin&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=78FE96&icon_color=78FE96" width="380px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
