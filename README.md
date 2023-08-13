@@ -6,13 +6,6 @@
 </h1>
 <!-- END: TYPING -->
 
-<!-- START: VISITORS -->
-<br>
-<p align="center">
-<img alt="views" title="GitHub profile views" src="https://gdagtekin.com/github/"/>
-</p>
-<!-- END: VISITORS -->
-
 <!-- START: SOCIAL LINKS  -->
 <h2 align="center">Connect with me</h2>
 <p align="center">
@@ -99,10 +92,10 @@
 <!-- START: PROGRAMMING LANGUAGES -->
 <h2 align="center">Programming languages</h2>
 <p align="center">
+<a href="https://github.com/search?q=user%3Agdagtekin+is%3Arepo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin%20-%231AA2D4.svg?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Agdagtekin+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Agdagtekin+is%3Arepo+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/csharp-%23682876.svg?&style=for-the-badge&logo=csharp&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Agdagtekin+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Agdagtekin+is%3Arepo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin%20-%231AA2D4.svg?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Agdagtekin+is%3Arepo+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/swift%20-%23F05138.svg?&style=for-the-badge&logo=swift&logoColor=white"></a>
 </p>
 <!-- END: PROGRAMMING LANGUAGES -->
