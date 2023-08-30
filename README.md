@@ -9,7 +9,6 @@
 <!-- START: SOCIAL LINKS  -->
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="https://github.com/gdagtekin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
 <a href="https://play.google.com/store/apps/dev?id=5747179795292428520"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/gdagtekin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://gdagtekin.com/"><img src="https://img.shields.io/badge/%F0%9F%AA%90Personal%20Website-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge" alt="Website" /></a>&nbsp;
