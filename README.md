@@ -124,28 +124,3 @@
 <img alt="Arduino" src="https://img.shields.io/badge/arduino-%2300878F.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 <!-- END: SOFTWARE AND TOOLS -->
-
----
-
-<!-- https://github.com/anuraghazra/github-readme-statsh -->
-<!-- START: GITHUB PROFILE STATS -->
-<h2 align="center">GitHub Profile Stats</h2>
-<p align="center">
-  <img alt="gdagtekin's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=gdagtekin&hide=contribs,prs,issues&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=78FE96&icon_color=78FE96" width="412px"/>
-  <img alt="gdagtekin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdagtekin&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=78FE96&icon_color=78FE96" width="380px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<!-- END: GITHUB PROFILE STATS -->
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<!-- START: ACTIVITY GRAPH -->
-
-<br>
-<details>
-  <summary align="center">Activity Graph</summary>
-  <p align="center">
-    <img alt="gdagtekin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gdagtekin&bg_color=1F222E&color=78FE96&line=78FE96&point=FFFFFF&hide_border=true" />
-  </p>
-</details>
-<!-- END: ACTIVITY GRAPH -->
